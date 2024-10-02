@@ -1,0 +1,35 @@
+# Go binaries
+/bin/
+/*.exe
+/*.exe~
+/*.out
+/*.a
+/*.so
+/*.test
+/*.dSYM
+
+# Dependency directories
+/vendor/
+/node_modules/
+
+# SQLite database
+chat.db
+
+# Build output
+/public/build/
+/tmp/
+
+# Logs
+*.log
+
+# IDE and editor files
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# Environment variable files
+.env
+
