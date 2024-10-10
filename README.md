@@ -1,5 +1,4 @@
 
-```markdown
 # Elegant Chat Application
 
 Welcome to the **Go Chat** project, a modern chat application built with Go for the backend and a clean, minimalist frontend using Tailwind CSS. This application provides a seamless chatting experience with real-time messaging capabilities. **Please note that this is a proof of concept project designed to help me learn about WebSockets, so it is a bare-bones implementation.**
