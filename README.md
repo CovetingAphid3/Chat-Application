@@ -44,8 +44,8 @@ chat
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/elegant-chat.git
-   cd elegant-chat
+   git clone https://github.com/yourusername/Chat-Application.git
+   cd Chat-Application
    ```
 
 2. **Install Go dependencies**:
@@ -56,14 +56,6 @@ chat
    go mod tidy
    ```
 
-3. **Install Tailwind CSS** (if needed):
-
-   Navigate to the `public` directory and install Tailwind CSS:
-
-   ```bash
-   npm install -D tailwindcss
-   npx tailwindcss init
-   ```
 
 ## Usage
 
